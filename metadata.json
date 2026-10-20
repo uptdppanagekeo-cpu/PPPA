@@ -1,0 +1,6 @@
+{
+  "name": "SIMP-PPA Nagekeo",
+  "description": "Sistem Informasi Manajemen & Pelaporan Kasus UPTD PPA Kabupaten Nagekeo",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
